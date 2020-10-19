@@ -1,4 +1,4 @@
-# kensho
+# kensho - ケンショウ
 This is going to be a mini repo that will hopefully become a nice little website from this
 
 ## What is ...this?
